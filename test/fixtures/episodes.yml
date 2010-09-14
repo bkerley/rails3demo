@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  season: 1
+  sequence: 1
+  viewed_at: 2010-09-14 12:03:45
+
+two:
+  name: MyString
+  season: 1
+  sequence: 1
+  viewed_at: 2010-09-14 12:03:45

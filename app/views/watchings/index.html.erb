@@ -1,0 +1,7 @@
+<h1>Episodes</h1>
+
+<h2>Unwatched</h2>
+<%= render :partial=>'episode_list', :locals=>{:episode_list=>@unwatched} %>
+
+<h2>Watched</h2>
+<%= render :partial=>'episode_list', :locals=>{:episode_list=>@watched} %>
